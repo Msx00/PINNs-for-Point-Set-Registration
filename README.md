@@ -121,7 +121,6 @@ python demo_register.py --cfg configs/deformation.yaml
       </a>
       <br/>💻 📖
     </td>
-
     <!-- 2️⃣ Msx00 -->
     <td align="center">
       <a href="https://github.com/Msx00">
