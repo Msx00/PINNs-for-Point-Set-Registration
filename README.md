@@ -73,7 +73,14 @@
 <details>
 <summary>📄 Full tables & p-values</summary>
 
-*See `tables/` folder or the supplementary PDF for complete metrics and statistical tests.*
+<p align="center">
+  <img src="./images2/method_pvalue.png" width="100%">
+</p>
+
+<i>Fig.&nbsp;X Statistical significance (t-test <em>p</em>-value) matrix.  
+Blue ＝ simulation RMSE; pink ＝ clinical TRE.  
+★ ★ ★ : <em>p</em> < 0.001 · ★ ★ : 0.001 < <em>p</em> < 0.01 · ★ : 0.01 < <em>p</em> < 0.05 · n.s. : <em>p</em> > 0.05.</i>
+
 </details>
 
 ---
