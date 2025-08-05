@@ -20,7 +20,7 @@
 
 ## 🔧 Framework  
 <p align="center">
-  <a href="Image/architectures.pdf"><img src="images2/architectures.png" width="100%"></a>
+  <a href="Image/architectures.pdf"><img src="images2/architecture.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig. 1  Four FPT-PINN configurations predicting different physical quantities.</i></p>
 
@@ -28,12 +28,12 @@
 
 ## 📈 Qualitative Results  
 <p align="center">
-  <a href="Image/figure2.pdf"><img src="Image/figure2.png" width="100%"></a>
+  <a href="Image/figure2.pdf"><img src="images2/figure2.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig. 2  Surface overlap comparison on simulation (top) and clinical (bottom) cases.</i></p>
 
 <p align="center">
-  <a href="Image/figure3.pdf"><img src="Image/figure3.png" width="100%"></a>
+  <a href="Image/figure3.pdf"><img src="images2/figure3.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig. 3  Jacobian-determinant maps; smoother J≈1 indicates more physical deformations.</i></p>
 
