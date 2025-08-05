@@ -20,10 +20,14 @@
 
 ## 🔧 Framework  
 
+### Full Version
+
 <p align="center">
   <img src="images2/framework.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig.&nbsp;1 Detailed workflow of our biomechanics-informed point-set registration pipeline.</i></p>
+
+### Simplified Version
 
 <p align="center">
   <img src="images2/architecture.png" width="100%"></a>
