@@ -28,12 +28,12 @@
 
 ## 📈 Qualitative Results  
 <p align="center">
-  <a href="Image/figure2.pdf"><img src="images2/figure2.png" width="100%"></a>
+  <img src="images2/qualitative1.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig. 2  Surface overlap comparison on simulation (top) and clinical (bottom) cases.</i></p>
 
 <p align="center">
-  <a href="Image/figure3.pdf"><img src="images2/figure3.png" width="100%"></a>
+  <img src="images2/qualitative2.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig. 3  Jacobian-determinant maps; smoother J≈1 indicates more physical deformations.</i></p>
 
