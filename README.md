@@ -20,7 +20,7 @@
 
 ## 🔧 Framework  
 <p align="center">
-  <a href="Image/architectures.pdf"><img src="Image/architectures.png" width="100%"></a>
+  <a href="Image/architectures.pdf"><img src="images2/architectures.png" width="100%"></a>
 </p>
 <p align="center"><i>Fig. 1  Four FPT-PINN configurations predicting different physical quantities.</i></p>
 
