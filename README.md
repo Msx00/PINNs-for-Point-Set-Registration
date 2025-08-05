@@ -5,8 +5,8 @@
 
 Our method introduces a physics-informed framework for non-rigid point set registration.  
 
-![Pipeline]([./figures/architectures.png](https://github.com/user-attachments/files/21588950/architectures.pdf))
-<embed src="./figures/architectures.png" width="600" height="400" type="application/pdf">
+![Pipeline]([./images2/architecture.png](https://github.com/user-attachments/files/21588950/architectures.pdf))
+
 *Figure 1. Overview of our proposed framework.*
 
 
