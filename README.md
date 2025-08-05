@@ -19,10 +19,16 @@
 ---
 
 ## 🔧 Framework  
+
+<p align="center">
+  <img src="images2/framework.png" width="100%"></a>
+</p>
+<p align="center"><i>Fig. 1  Overview of proposed registration framework.</i></p>
+
 <p align="center">
   <img src="images2/architecture.png" width="100%"></a>
 </p>
-<p align="center"><i>Fig. 1  Four FPT-PINN configurations predicting different physical quantities.</i></p>
+<p align="center"><i>Fig. 2  Illustration of four FPT-PINN configurations for predicting different physical quantities(simplified).</i></p>
 
 ---
 
