@@ -5,9 +5,9 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2408.xxxxx-B31B1B)](https://arxiv.org/abs/2408.xxxxx)
 [![Model](https://img.shields.io/badge/Pretrained-Model-Google%20Drive-4285F4)](https://drive.google.com/file/d/16ZNGCIL4RsnQH0xj3ZJ2c6ozL9UDoC82/view)
 
-> **Physics-Informed Neural Networks for Biomechanics-Aware Point-Set Registration**  
-> *Lin Zhaoxi, et al.*  
-> IEEE TMI 2025 (to appear)
+> **The Impact of Biomechanical Quantities on PINNs-based Medical Image Registration**  
+> *Shixing Ma, Lin Zhaoxi, et al.*  
+> MICCAI 2025 ASMUS 
 
 ---
 
