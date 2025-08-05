@@ -106,27 +106,29 @@ cd PINNs-for-Point-Set-Registration
 # ./log/xxxxx/checkpoints/model_best.pt
 
 python demo_register.py --cfg configs/deformation.yaml
+```                          
 
 ---
 ## Contributors ✨
 
 <table>
   <tr>
+    <!-- 1️⃣ Zhaoxi Lin -->
     <td align="center">
       <a href="https://github.com/Lzhaoxi">
-        <img src="https://avatars.githubusercontent.com/Lzhaoxi" width="100px;" style="border-radius:50%" alt="Zhaoxi Lin"/>
+        <img src="https://avatars.githubusercontent.com/Lzhaoxi" width="100px" style="border-radius:50%;" alt="Zhaoxi Lin"/>
         <br /><sub><b>Zhaoxi Lin</b></sub>
       </a>
       <br/>💻 📖
     </td>
 
+    <!-- 2️⃣ Msx00 -->
     <td align="center">
-      <a href="https://github.com/OtherUser">
-        <img src="https://avatars.githubusercontent.com/OtherUser" width="100px;" style="border-radius:50%" alt="Other"/>
-        <br /><sub><b>Other Name</b></sub>
+      <a href="https://github.com/Msx00">
+        <img src="https://avatars.githubusercontent.com/Msx00" width="100px" style="border-radius:50%;" alt="Msx00"/>
+        <br /><sub><b>Msx00</b></sub>
       </a>
-      <br/>💻 🐛
+      <br/>💻 🛠️
     </td>
-    -->
   </tr>
 </table>
