@@ -107,7 +107,26 @@ cd PINNs-for-Point-Set-Registration
 
 python demo_register.py --cfg configs/deformation.yaml
 
+---
+## Contributors ✨
 
-## Contributors
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Lzhaoxi">
+        <img src="https://avatars.githubusercontent.com/Lzhaoxi" width="100px;" style="border-radius:50%" alt="Zhaoxi Lin"/>
+        <br /><sub><b>Zhaoxi Lin</b></sub>
+      </a>
+      <br/>💻 📖
+    </td>
 
-- [Zhaoxi Lin](https://github.com/Lzhaoxi)  
+    <td align="center">
+      <a href="https://github.com/OtherUser">
+        <img src="https://avatars.githubusercontent.com/OtherUser" width="100px;" style="border-radius:50%" alt="Other"/>
+        <br /><sub><b>Other Name</b></sub>
+      </a>
+      <br/>💻 🐛
+    </td>
+    -->
+  </tr>
+</table>
