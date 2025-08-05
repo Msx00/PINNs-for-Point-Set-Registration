@@ -77,7 +77,7 @@
   <img src="./images2/method_pvalue.png" width="100%">
 </p>
 
-<i>Fig.&nbsp;X Statistical significance (t-test <em>p</em>-value) matrix.  
+<i>Fig.&nbsp; Statistical significance (t-test <em>p</em>-value) matrix.  
 Blue ＝ simulation RMSE; pink ＝ clinical TRE.  
 ★ ★ ★ : <em>p</em> < 0.001 · ★ ★ : 0.001 < <em>p</em> < 0.01 · ★ : 0.01 < <em>p</em> < 0.05 · n.s. : <em>p</em> > 0.05.</i>
 
