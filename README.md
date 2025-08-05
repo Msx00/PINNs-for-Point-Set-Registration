@@ -48,9 +48,9 @@
 </p>
 <p align="center"><i>Fig. 3  Jacobian-determinant maps; smoother J≈1 indicates more physical deformations.</i></p>
 
+---
 
-
-### 📊 Quantitative Results – Simulation Dataset
+## 📊 Quantitative Results – Simulation Dataset
 
 | Method                 | RMSE (mm) ↓       | CD (mm) ↓         | %neg J ↓        |
 | ---------------------- | ----------------- | ----------------- | --------------- |
@@ -63,9 +63,8 @@
 | Stress-Strain (Ours)   | 0.242 ± 0.147     | 0.217 ± 0.098     | **0**           |
 | **Deformation (Ours)** | **0.219 ± 0.057** | **0.194 ± 0.057** | **0**           |
 
----
 
-### 📊 Quantitative Results – Clinical Dataset
+## 📊 Quantitative Results – Clinical Dataset
 
 | Method                 | TRE (mm) ↓        | CD (mm) ↓         | %neg J ↓           |
 | ---------------------- | ----------------- | ----------------- | ------------------ |
@@ -79,10 +78,8 @@
 | **Deformation (Ours)** | **4.924 ± 1.542** | **2.125 ± 0.291** | 0.278 ± 0.312      |
 
 
+## 📄 Statistical significance & p-values
 
-
-
-<summary>📄 Full tables & p-values</summary>
 
 <p align="center">
   <img src="./images2/method_pvalue.png" width="100%">
