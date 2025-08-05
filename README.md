@@ -3,10 +3,10 @@
 # PINNs-for-Point-Set-Registration  
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2408.xxxxx-B31B1B)](https://arxiv.org/abs/2408.xxxxx)
-[![Model](https://img.shields.io/badge/Pretrained-Model-Google%20Drive-4285F4)](https://drive.google.com/file/d/16ZNGCIL4RsnQH0xj3ZJ2c6ozL9UDoC82/view)
+[![Pre-trained Model](https://img.shields.io/badge/Pretrained-Model-Google%20Drive-4285F4)](https://drive.google.com/file/d/16ZNGCIL4RsnQH0xj3ZJ2c6ozL9UDoC82/view)
 
 > **The Impact of Biomechanical Quantities on PINNs-based Medical Image Registration**  
-> *Shixing Ma, Lin Zhaoxi, et al.*  
+> *Shixing Ma, Zhaoxi Lin, et al.*  
 > MICCAI 2025 ASMUS 
 
 ---
@@ -20,15 +20,13 @@
 
 ## 🔧 Framework  
 
-<p align="center">
-  <img src="images2/framework.png" width="100%"></a>
-</p>
-<p align="center"><i>Fig. 1  Overview of proposed registration framework.</i></p>
+<p align="center"><i>
+Fig.&nbsp;1 Detailed workflow of our biomechanics-informed point-set registration pipeline.<br>
+</i></p>
 
-<p align="center">
-  <img src="images2/architecture.png" width="100%"></a>
-</p>
-<p align="center"><i>Fig. 2  Illustration of four FPT-PINN configurations for predicting different physical quantities(simplified).</i></p>
+<p align="center"><i>
+Fig.&nbsp;2 Four FPT-PINN variants: (a) deformation, (b) stress, (c) strain, and (d) stress-strain prediction.<br>
+</i></p>
 
 ---
 
