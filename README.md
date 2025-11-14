@@ -2,12 +2,12 @@
 
 # PINNs-for-Point-Set-Registration  
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2408.xxxxx-B31B1B)](https://arxiv.org/abs/2408.xxxxx)
+
 [![Pre-trained Model](https://img.shields.io/badge/Pretrained-Model-Google%20Drive-4285F4)](https://drive.google.com/file/d/16ZNGCIL4RsnQH0xj3ZJ2c6ozL9UDoC82/view)
 
 > **The Impact of Biomechanical Quantities on PINNs-based Medical Image Registration**  
 > *Shixing Ma, Zhaoxi Lin, et al.*  
-> MICCAI 2025 ASMUS 
+> please wait for codes, I will update the git before 2025/11/30, now I have a middle-term assessment
 
 ---
 
